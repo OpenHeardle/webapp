@@ -1,0 +1,7 @@
+{
+  "name": "OpenHeardle",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
